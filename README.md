@@ -12,5 +12,5 @@ This repository contains C++ projects developed to demonstrate the intersection 
 
 ---
 **Academic Standing:** Entering **3rd Year** of Computer Systems Engineering (TUT).
-- **2nd Year Average:** 85% 
+- **2nd Year Average:** 84% 
 - **Key Distinctions:** Digital Electronics (88%), Programming (84%).
